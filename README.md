@@ -53,8 +53,8 @@
 	</a>
 	</td>
 	<td>
-	<a href="[https://kineticgames.co.uk/](https://cdna.artstation.com/p/assets/images/images/066/938/580/large/michael-martin-bedmar-005.jpg?1694129665)">
-  		<img src="[https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png](https://cdna.artstation.com/p/assets/images/images/066/938/580/large/michael-martin-bedmar-005.jpg?1694129665)https://cdna.artstation.com/p/assets/images/images/066/938/580/large/michael-martin-bedmar-005.jpg?1694129665">
+	<a href="https://cdna.artstation.com/p/assets/images/images/066/938/580/large/michael-martin-bedmar-005.jpg?1694129665">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/066/938/580/large/michael-martin-bedmar-005.jpg?1694129665">
 	</a>
   </tr>
 </table>
